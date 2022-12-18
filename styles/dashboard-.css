@@ -1004,7 +1004,7 @@ body {
   flex-shrink: 0;
 }
 .dashboard--Rc2 .overview-Lk6 .auto-group-w66n-r1c .expenses-JuC {
-  text-align: left;
+  text-align: center;
   font-size: 2.4rem;
   font-weight: 600;
   line-height: 1.2102272511;
@@ -1015,13 +1015,13 @@ body {
 }
 .dashboard--Rc2 .titledashboard-bdQ {
   box-sizing: border-box;
-  padding: 1.9rem 1.8rem 2.9rem 1.8rem;
+  padding: 7.9rem 1.8rem 2.9rem 1.8rem;
   width: 221.7rem;
   height: 14.1rem;
   position: absolute;
-  left: 1.800000000000003rem;
+  left: 21.7rem;
   top: 0;
-  text-align: left;
+  text-align: center;
   font-size: 3.6rem;
   font-weight: 800;
   line-height: 1.2102272246;
@@ -1421,8 +1421,4 @@ body {
   font-family: Inter, 'Source Sans Pro';
   white-space: nowrap;
   flex-shrink: 0;
-}
-.boxhead .otherPage {
-  color: #FFFFFF;
-  text-decoration: none;
 }
