@@ -1,0 +1,1669 @@
+
+html {
+	font-size:62.5%;
+}
+* {
+	margin: 0;
+	padding: 0;
+}
+ul, li {
+	list-style: none;
+}
+input {
+	border: none;
+}
+body {
+  width: 169rem;
+}.qr-payment-3FL {
+  position: relative;
+  background-color: #ffffff;
+  width: 100%;
+  height: 80rem;
+  overflow: hidden;
+
+  .group-3500-z46 {
+    position: relative;
+    width: 243.7rem;
+    height: 100.2rem;
+
+    .rectangle-9-Hav {
+      width: 20.9rem;
+      height: 93.6rem;
+      position: absolute;
+      left: 0;
+      top: 0;
+      background-color: #d6c2eb;
+    }
+    .transfree-YWr {
+      color: #60269e;
+      width: 10.4rem;
+      left: 5.2rem;
+      font-style: italic;
+      text-align: center;
+      font-size: 2rem;
+      font-weight: 800;
+      line-height: 1.2102272034;
+      font-family: Inter, 'Source Sans Pro';
+      height: 3.1rem;
+      position: absolute;
+      top: 2.7rem;
+      white-space: nowrap;
+    }
+    .group-3467-ho4 {
+      height: 2.4295rem;
+      position: absolute;
+      left: 1.7983rem;
+      top: 9.5705rem;
+      display: flex;
+      align-items: flex-start;
+      width: 15.5017rem;
+
+      .home-1-xiz {
+        flex-shrink: 0;
+        margin-right: 1.8835rem;
+        width: 1.9182rem;
+        height: 2.2017rem;
+        object-fit: cover;
+        vertical-align: top;
+      }
+      .dashboard-Dev {
+        font-family: Inter, 'Source Sans Pro';
+        margin-top: 0.0295rem;
+        font-size: 2rem;
+        font-weight: 800;
+        line-height: 1.2102272034;
+        color: #60269e;
+        text-align: center;
+        white-space: nowrap;
+        flex-shrink: 0;
+      }
+    }
+    .group-3468-Gt6 {
+      display: flex;
+      align-items: center;
+      width: 17.961rem;
+      height: 3.7842rem;
+      position: absolute;
+      left: 1.1389rem;
+      top: 13.2859rem;
+
+      .transaction-1-YKp {
+        margin-right: 1.2424rem;
+        width: 3.6634rem;
+        height: 3.7842rem;
+        object-fit: cover;
+        vertical-align: top;
+        flex-shrink: 0;
+      }
+      .transactions-q42 {
+        text-align: center;
+        font-size: 2rem;
+        font-weight: 800;
+        font-family: Inter, 'Source Sans Pro';
+        flex-shrink: 0;
+        margin-bottom: 0.0586rem;
+        line-height: 1.2102272034;
+        color: #60269e;
+        white-space: nowrap;
+      }
+    }
+    .group-3469-7XL {
+      width: 13.3017rem;
+      height: 2.5rem;
+      position: absolute;
+      left: 1.7983rem;
+      top: 18.6rem;
+      display: flex;
+      align-items: flex-start;
+
+      .send-1-Pjk {
+        width: 1.9781rem;
+        height: 2.2705rem;
+        object-fit: cover;
+        vertical-align: top;
+        flex-shrink: 0;
+        margin: 0.053rem 1.824rem 0rem 0rem;
+      }
+      .transfer-Si2 {
+        font-size: 2rem;
+        font-weight: 800;
+        line-height: 1.2102272034;
+        color: #60269e;
+        font-family: Inter, 'Source Sans Pro';
+        white-space: nowrap;
+        flex-shrink: 0;
+        text-align: center;
+      }
+    }
+    .notification-vt6 {
+      width: 11.7461rem;
+      height: 2.4769rem;
+      position: absolute;
+      top: 23.1rem;
+      font-weight: 800;
+      left: 6rem;
+      text-align: center;
+      font-size: 2rem;
+      line-height: 1.2102272034;
+      color: #60269e;
+      font-family: Inter, 'Source Sans Pro';
+      white-space: nowrap;
+    }
+    .group-3472-Nzz {
+      width: 11.7111rem;
+      height: 2.5rem;
+      position: absolute;
+      left: 1.7983rem;
+      top: 27.6rem;
+      display: flex;
+      align-items: center;
+
+      .logout-1-fz6 {
+        margin-right: 1.5775rem;
+        width: 2.178rem;
+        height: 2.5rem;
+        object-fit: cover;
+        vertical-align: top;
+        flex-shrink: 0;
+      }
+      .log-out-Mc2 {
+        white-space: nowrap;
+        flex-shrink: 0;
+        text-align: center;
+        font-size: 2rem;
+        font-weight: 800;
+        line-height: 1.2102272034;
+        color: #60269e;
+        font-family: Inter, 'Source Sans Pro';
+      }
+    }
+    .layersfill-saN {
+      position: absolute;
+      left: 1.85rem;
+      top: 1.65rem;
+      object-fit: contain;
+      vertical-align: top;
+      width: 3rem;
+      height: 3.8845rem;
+    }
+    .rectangle-10-YgW {
+      width: 221.7rem;
+      height: 14.1rem;
+      position: absolute;
+      left: 21.7rem;
+      top: 0;
+      object-fit: contain;
+      vertical-align: top;
+      border-radius: 1rem;
+    }
+    .rectangle-16-dT4 {
+      object-fit: contain;
+      vertical-align: top;
+      border-radius: 1rem;
+      width: 42rem;
+      height: 24.4rem;
+      position: absolute;
+      left: 125.7rem;
+      top: 31.1rem;
+    }
+    .dashboard-WfG {
+      width: 20.6rem;
+      top: 1.3rem;
+      text-align: center;
+      font-size: 3.6rem;
+      line-height: 1.2102272246;
+      white-space: nowrap;
+      height: 3.3rem;
+      position: absolute;
+      left: 23.4rem;
+      font-weight: 800;
+      color: #60269e;
+      font-family: Inter, 'Source Sans Pro';
+    }
+    .rp-350000-Yrr {
+      white-space: nowrap;
+      height: 2.6rem;
+      position: absolute;
+      text-align: center;
+      line-height: 1.2102272511;
+      font-weight: 800;
+      color: #60269e;
+      font-family: Inter, 'Source Sans Pro';
+      width: 15.8rem;
+      left: 129.5rem;
+      top: 47.1rem;
+      font-size: 2.4rem;
+    }
+    .group-3481-oXt {
+      background-repeat: no-repeat;
+      background-position: center;
+      padding: 0.901rem 0rem 1.409rem 0rem;
+      left: 21.8rem;
+      background-size: cover;
+      position: absolute;
+      top: 8.4rem;
+      background-image: url('REPLACE_IMAGE:2:656');
+      border-radius: 1rem;
+      box-sizing: border-box;
+      width: 40.5rem;
+      height: 19.8888rem;
+
+      .balance-oRQ {
+        width: 100%;
+        text-align: center;
+        line-height: 1.2102272034;
+        font-family: Inter, 'Source Sans Pro';
+        margin-bottom: 3.7994rem;
+        font-size: 3rem;
+        font-weight: 800;
+        color: #60269e;
+        white-space: nowrap;
+      }
+      .rp-12345678-5ti {
+        color: #60269e;
+        font-family: Inter, 'Source Sans Pro';
+        white-space: nowrap;
+        margin-bottom: 3.9714rem;
+        width: 100%;
+        text-align: center;
+        font-size: 3.6rem;
+        line-height: 1.2102272246;
+        font-weight: 800;
+      }
+      .wallet-id-87654321-mmY {
+        color: #60269e;
+        font-family: Inter, 'Source Sans Pro';
+        white-space: nowrap;
+        width: 100%;
+        text-align: center;
+        font-size: 2rem;
+        font-weight: 800;
+        line-height: 1.2102272034;
+      }
+    }
+    .group-3479-NFY {
+      width: 100.2026rem;
+      height: 25.1383rem;
+      position: absolute;
+      left: 20.1rem;
+      top: 28.5rem;
+
+      .recent-transactions-DX4 {
+        white-space: nowrap;
+        font-size: 3rem;
+        font-family: Inter, 'Source Sans Pro';
+        text-align: center;
+        font-weight: 800;
+        line-height: 1.2102272034;
+        color: #d7c3ec;
+        margin-bottom: 3.3rem;
+        width: 100%;
+      }
+      .auto-group-tiuy-u8z {
+        display: flex;
+        align-items: flex-start;
+        margin: 0rem 6.983rem 0.951rem 6.1rem;
+        width: calc(100% - 13.083rem);
+
+        .name-jti {
+          text-align: center;
+          font-size: 1.6rem;
+          font-weight: 300;
+          line-height: 1.2102272511;
+          color: #60269e;
+          white-space: nowrap;
+          flex-shrink: 0;
+          margin: 0.1rem 33.182rem 0rem 0rem;
+          font-family: Inter, 'Source Sans Pro';
+        }
+        .date-Qjx {
+          text-align: center;
+          font-weight: 300;
+          line-height: 1.2102272511;
+          color: #60269e;
+          white-space: nowrap;
+          margin-right: 19.8654rem;
+          font-size: 1.6rem;
+          font-family: Inter, 'Source Sans Pro';
+          flex-shrink: 0;
+        }
+        .status-JqL {
+          font-size: 1.6rem;
+          line-height: 1.2102272511;
+          white-space: nowrap;
+          margin-right: 11.558rem;
+          text-align: center;
+          font-weight: 300;
+          color: #60269e;
+          font-family: Inter, 'Source Sans Pro';
+          flex-shrink: 0;
+        }
+        .amount-Prn {
+          line-height: 1.2102272511;
+          color: #60269e;
+          font-family: Inter, 'Source Sans Pro';
+          white-space: nowrap;
+          flex-shrink: 0;
+          text-align: center;
+          font-size: 1.6rem;
+          font-weight: 300;
+        }
+      }
+      .auto-group-sjzk-WAi {
+        display: flex;
+        align-items: center;
+        margin: 0rem 0rem 0.525rem 7.241rem;
+
+        .dhaifan-satriaji-id-80972345-zra {
+          font-family: Inter, 'Source Sans Pro';
+          flex-shrink: 0;
+          margin-right: 20.3629rem;
+          max-width: 17.0962rem;
+          font-size: 2rem;
+          font-weight: 400;
+          line-height: 1.2102272034;
+          color: #d7c3ec;
+
+          .dhaifan-satriaji-id-80972345-zra-sub-0 {
+            line-height: 1.5127840042;
+            color: #d7c3ec;
+            font-family: Inter, 'Source Sans Pro';
+            font-size: 1.6rem;
+            font-weight: 600;
+          }
+          .dhaifan-satriaji-id-80972345-zra-sub-1 {
+            line-height: 2.0170453389;
+            color: #d7c3ec;
+            font-family: Inter, 'Source Sans Pro';
+            font-size: 1.2rem;
+            font-weight: 400;
+          }
+        }
+        .mar-17-2022-5Ya {
+          text-align: center;
+          font-size: 2rem;
+          white-space: nowrap;
+          flex-shrink: 0;
+          margin: 0rem 9.632rem 0.525rem 0rem;
+          font-weight: 400;
+          line-height: 1.2102272034;
+          color: #d7c3ec;
+          font-family: Inter, 'Source Sans Pro';
+        }
+        .receive-8mk {
+          text-align: center;
+          line-height: 1.2102272034;
+          color: #2cd03c;
+          font-family: Inter, 'Source Sans Pro';
+          white-space: nowrap;
+          flex-shrink: 0;
+          margin: 0rem 8.307rem 0.525rem 0rem;
+          font-size: 2rem;
+          font-weight: 400;
+        }
+        .rp-50000-Bk2 {
+          color: #d7c3ec;
+          font-family: Inter, 'Source Sans Pro';
+          white-space: nowrap;
+          flex-shrink: 0;
+          margin-bottom: 0.5254rem;
+          font-size: 2rem;
+          font-weight: 400;
+          line-height: 1.2102272034;
+        }
+      }
+      .auto-group-fbm4-Uj8 {
+        margin: 0rem 0rem 0.444rem 7.241rem;
+        display: flex;
+        align-items: center;
+
+        .ramadhan-wahyu-id-25023897-Abx {
+          font-family: Inter, 'Source Sans Pro';
+          white-space: nowrap;
+          display: flex;
+          align-items: baseline;
+          margin-right: 17.1123rem;
+          font-size: 2rem;
+          font-weight: 400;
+          line-height: 1.2102272034;
+          color: #d7c3ec;
+          flex-shrink: 0;
+
+          .ramadhan-wahyu-id-25023897-Abx-sub-0 {
+            color: #d7c3ec;
+            font-family: Inter, 'Source Sans Pro';
+            font-size: 1.6rem;
+            font-weight: 600;
+            line-height: 1.5127840042;
+          }
+          .ramadhan-wahyu-id-25023897-Abx-sub-1 {
+            font-size: 1.1rem;
+            font-weight: 400;
+            line-height: 2.200413097;
+            color: #d7c3ec;
+            font-family: Inter, 'Source Sans Pro';
+          }
+        }
+        .mar-15-2022-JEJ {
+          margin: 0rem 9.271rem 0.525rem 0rem;
+          font-size: 2rem;
+          font-weight: 400;
+          font-family: Inter, 'Source Sans Pro';
+          text-align: center;
+          line-height: 1.2102272034;
+          color: #d7c3ec;
+          white-space: nowrap;
+          flex-shrink: 0;
+        }
+        .receive-xJr {
+          font-size: 2rem;
+          font-weight: 400;
+          line-height: 1.2102272034;
+          color: #2cd03d;
+          flex-shrink: 0;
+          margin: 0rem 8.307rem 0.525rem 0rem;
+          text-align: center;
+          font-family: Inter, 'Source Sans Pro';
+          white-space: nowrap;
+        }
+        .rp-100000-oKU {
+          font-family: Inter, 'Source Sans Pro';
+          white-space: nowrap;
+          flex-shrink: 0;
+          margin-bottom: 0.5254rem;
+          font-size: 2rem;
+          font-weight: 400;
+          line-height: 1.2102272034;
+          color: #d7c3ec;
+        }
+      }
+      .auto-group-xz8j-udQ {
+        margin: 0rem 0rem 0.559rem 7.2rem;
+        display: flex;
+        align-items: center;
+
+        .alifia-ayu-masita-id-34508923-QaA {
+          margin-right: 21.1rem;
+          font-size: 2rem;
+          font-weight: 400;
+          line-height: 1.2102272034;
+          font-family: Inter, 'Source Sans Pro';
+          white-space: nowrap;
+          display: flex;
+          color: #d7c3ec;
+          align-items: baseline;
+          flex-shrink: 0;
+
+          .alifia-ayu-masita-id-34508923-QaA-sub-0 {
+            font-size: 1.6rem;
+            font-weight: 600;
+            line-height: 1.5127840042;
+            color: #d7c3ec;
+            font-family: Inter, 'Source Sans Pro';
+          }
+          .alifia-ayu-masita-id-34508923-QaA-sub-1 {
+            color: #d7c3ec;
+            font-family: Inter, 'Source Sans Pro';
+            font-size: 1.1rem;
+            font-weight: 400;
+            line-height: 2.200413097;
+          }
+        }
+        .mar-13-2022-y9Q {
+          margin: 0rem 9.271rem 0.485rem 0rem;
+          text-align: center;
+          font-size: 2rem;
+          font-weight: 400;
+          line-height: 1.2102272034;
+          color: #d7c3ec;
+          font-family: Inter, 'Source Sans Pro';
+          white-space: nowrap;
+          flex-shrink: 0;
+        }
+        .payment-qSW {
+          line-height: 1.2102272034;
+          color: #d91c1c;
+          font-family: Inter, 'Source Sans Pro';
+          white-space: nowrap;
+          flex-shrink: 0;
+          font-weight: 400;
+          text-align: center;
+          font-size: 2rem;
+          margin: 0rem 7.344rem 0.499rem 0rem;
+        }
+        .rp-120000-Kca {
+          line-height: 1.2102272034;
+          color: #d7c3ec;
+          font-family: Inter, 'Source Sans Pro';
+          white-space: nowrap;
+          flex-shrink: 0;
+          margin-bottom: 0.4854rem;
+          font-size: 2rem;
+          font-weight: 400;
+        }
+      }
+      .auto-group-m9vj-1kJ {
+        margin: 0rem 0rem 0.525rem 7.241rem;
+        display: flex;
+        align-items: center;
+
+        .ilham-fachlevi-id-90384634-uKt {
+          color: #d7c3ec;
+          flex-shrink: 0;
+          font-weight: 400;
+          line-height: 1.2102272034;
+          font-family: Inter, 'Source Sans Pro';
+          white-space: nowrap;
+          display: flex;
+          align-items: baseline;
+          margin-right: 21.2057rem;
+          font-size: 2rem;
+
+          .ilham-fachlevi-id-90384634-uKt-sub-0 {
+            font-family: Inter, 'Source Sans Pro';
+            font-size: 1.6rem;
+            font-weight: 600;
+            line-height: 1.5127840042;
+            color: #d7c3ec;
+          }
+          .ilham-fachlevi-id-90384634-uKt-sub-1 {
+            font-size: 1.1rem;
+            font-weight: 400;
+            line-height: 2.200413097;
+            color: #d7c3ec;
+            font-family: Inter, 'Source Sans Pro';
+          }
+        }
+        .mar-10-2022-JFY {
+          font-weight: 400;
+          font-family: Inter, 'Source Sans Pro';
+          white-space: nowrap;
+          margin: 0rem 9.291rem 0.525rem 0rem;
+          font-size: 2rem;
+          color: #d7c3ec;
+          flex-shrink: 0;
+          text-align: center;
+          line-height: 1.2102272034;
+        }
+        .receive-Li2 {
+          font-size: 2rem;
+          font-weight: 400;
+          line-height: 1.2102272034;
+          color: #2cd03d;
+          font-family: Inter, 'Source Sans Pro';
+          white-space: nowrap;
+          flex-shrink: 0;
+          margin: 0rem 8.287rem 0.525rem 0rem;
+          text-align: center;
+        }
+        .rp-70000-Nei {
+          white-space: nowrap;
+          flex-shrink: 0;
+          margin-bottom: 0.5254rem;
+          font-size: 2rem;
+          font-weight: 400;
+          line-height: 1.2102272034;
+          color: #d7c3ec;
+          font-family: Inter, 'Source Sans Pro';
+        }
+      }
+      .auto-group-dnin-FyQ {
+        margin-left: 7.2408rem;
+        display: flex;
+        align-items: center;
+
+        .hedya-tiesyapana-id-62094756-A4n {
+          align-items: baseline;
+          font-weight: 400;
+          line-height: 1.2102272034;
+          white-space: nowrap;
+          font-family: Inter, 'Source Sans Pro';
+          display: flex;
+          flex-shrink: 0;
+          margin-right: 16.3899rem;
+          font-size: 2rem;
+          color: #d7c3ec;
+
+          .hedya-tiesyapana-id-62094756-A4n-sub-0 {
+            font-weight: 600;
+            line-height: 1.5127840042;
+            color: #d7c3ec;
+            font-family: Inter, 'Source Sans Pro';
+            font-size: 1.6rem;
+          }
+          .hedya-tiesyapana-id-62094756-A4n-sub-1 {
+            font-family: Inter, 'Source Sans Pro';
+            font-size: 1.1rem;
+            font-weight: 400;
+            line-height: 2.200413097;
+            color: #d7c3ec;
+          }
+        }
+        .mar-09-2022-GfY {
+          font-weight: 400;
+          line-height: 1.2102272034;
+          white-space: nowrap;
+          flex-shrink: 0;
+          margin: 0rem 8.91rem 0.525rem 0rem;
+          text-align: center;
+          font-size: 2rem;
+          color: #d7c3ec;
+          font-family: Inter, 'Source Sans Pro';
+        }
+        .payment-iGe {
+          text-align: center;
+          line-height: 1.2102272034;
+          white-space: nowrap;
+          font-family: Inter, 'Source Sans Pro';
+          flex-shrink: 0;
+          margin: 0rem 7.344rem 0.539rem 0rem;
+          font-size: 2rem;
+          font-weight: 400;
+          color: #d91c1c;
+        }
+        .rp-200000-PNn {
+          white-space: nowrap;
+          flex-shrink: 0;
+          margin-bottom: 0.5254rem;
+          font-size: 2rem;
+          font-weight: 400;
+          line-height: 1.2102272034;
+          color: #d7c3ec;
+          font-family: Inter, 'Source Sans Pro';
+        }
+      }
+    }
+    .overview-sYr {
+      top: 31.8rem;
+      text-align: center;
+      font-size: 3rem;
+      font-weight: 800;
+      line-height: 1.2102272034;
+      color: #60269e;
+      width: 14.8rem;
+      height: 2.7rem;
+      font-family: Inter, 'Source Sans Pro';
+      white-space: nowrap;
+      position: absolute;
+      left: 126.7197rem;
+    }
+    .income-5up {
+      line-height: 1.2102272511;
+      color: #5ab267;
+      font-family: Inter, 'Source Sans Pro';
+      width: 12.1rem;
+      position: absolute;
+      left: 131.6rem;
+      top: 50.2rem;
+      text-align: center;
+      font-size: 3.2rem;
+      font-weight: 600;
+      white-space: nowrap;
+      height: 3.5rem;
+    }
+    .group-3487-9Pt {
+      top: 57.1rem;
+      background-size: cover;
+      background-repeat: no-repeat;
+      background-position: center;
+      background-image: url('REPLACE_IMAGE:2:689');
+      width: 41.9541rem;
+      height: 21.4894rem;
+      left: 125.4rem;
+      border-radius: 1rem;
+      box-sizing: border-box;
+      padding: 1.3rem 0.6rem 1.218rem 0.6rem;
+      position: absolute;
+
+      .have-something-to-pay-AZt {
+        font-weight: 800;
+        color: #60269e;
+        font-family: Inter, 'Source Sans Pro';
+        margin-bottom: 0.9852rem;
+        width: 100%;
+        text-align: center;
+        font-size: 3rem;
+        line-height: 1.2102272034;
+        white-space: nowrap;
+      }
+      .use-your-qr-to-pay-with-transfree-2rz {
+        color: #60269e;
+        font-family: Inter, 'Source Sans Pro';
+        white-space: nowrap;
+        margin: 0rem 0rem 5.168rem 0.274rem;
+        font-size: 2rem;
+        font-weight: 600;
+        line-height: 1.2102272034;
+      }
+      .group-3473-tuC {
+        background-image: url('REPLACE_IMAGE:2:692');
+        line-height: 1.2102272034;
+        color: #60269e;
+        white-space: nowrap;
+        justify-content: center;
+        background-position: center;
+        width: 19.2814rem;
+        text-align: center;
+        font-size: 2rem;
+        font-family: Inter, 'Source Sans Pro';
+        display: flex;
+        align-items: center;
+        border-radius: 1rem;
+        margin-left: 1.7742rem;
+        height: 4.9735rem;
+        background-repeat: no-repeat;
+        font-weight: 500;
+        background-size: cover;
+      }
+    }
+    .group-3486-FtA {
+      background-repeat: no-repeat;
+      background-image: url('REPLACE_IMAGE:2:696');
+      height: 21.5rem;
+      position: absolute;
+      left: 21.9rem;
+      top: 57.2rem;
+      background-size: cover;
+      box-sizing: border-box;
+      padding: 0.7rem 1.2rem 5.904rem 1.2rem;
+      width: 101.3rem;
+      background-position: center;
+      border-radius: 1rem;
+
+      .upcoming-payments-iFx {
+        margin-bottom: 2.9rem;
+        font-size: 3rem;
+        white-space: nowrap;
+        color: #60269e;
+        font-family: Inter, 'Source Sans Pro';
+        width: 100%;
+        text-align: center;
+        font-weight: 800;
+        line-height: 1.2102272034;
+      }
+      .group-3466-Cwp {
+        width: calc(100% - 6.6727rem);
+        height: 9.6962rem;
+        display: flex;
+        align-items: center;
+        margin: 0rem 3.973rem 0rem 2.7rem;
+
+        .auto-group-a9mt-5Vp {
+          flex-shrink: 0;
+          margin: 0.6rem 19.422rem 0rem 0rem;
+          width: 19.5782rem;
+
+          .name-Njp {
+            font-size: 1.6rem;
+            line-height: 1.2102272511;
+            color: #60269e;
+            margin-bottom: 1.2839rem;
+            width: 100%;
+            text-align: center;
+            font-weight: 300;
+            font-family: Inter, 'Source Sans Pro';
+            white-space: nowrap;
+          }
+          .spotify-premiuim-id-80238345-tzz {
+            margin: 0rem 0rem 1.604rem 1.2rem;
+            font-size: 2rem;
+            line-height: 1.2102272034;
+            font-weight: 400;
+            color: #60269e;
+            font-family: Inter, 'Source Sans Pro';
+            white-space: nowrap;
+            display: flex;
+            align-items: baseline;
+
+            .spotify-premiuim-id-80238345-tzz-sub-0 {
+              line-height: 1.5127840042;
+              color: #60269e;
+              font-family: Inter, 'Source Sans Pro';
+              font-size: 1.6rem;
+              font-weight: 600;
+            }
+            .spotify-premiuim-id-80238345-tzz-sub-1 {
+              font-family: Inter, 'Source Sans Pro';
+              font-size: 1.1rem;
+              font-weight: 400;
+              line-height: 2.200413097;
+              color: #60269e;
+            }
+          }
+          .netflix-id-25397497-82A {
+            margin-left: 1.5rem;
+            font-size: 2rem;
+            font-weight: 400;
+            color: #60269e;
+            white-space: nowrap;
+            display: flex;
+            line-height: 1.2102272034;
+            font-family: Inter, 'Source Sans Pro';
+            align-items: baseline;
+
+            .netflix-id-25397497-82A-sub-0 {
+              font-size: 1.6rem;
+              font-weight: 600;
+              line-height: 1.5127840042;
+              color: #60269e;
+              font-family: Inter, 'Source Sans Pro';
+            }
+            .netflix-id-25397497-82A-sub-1 {
+              font-weight: 400;
+              line-height: 1.5127840042;
+              color: #60269e;
+              font-family: Inter, 'Source Sans Pro';
+              font-size: 1.6rem;
+            }
+            .netflix-id-25397497-82A-sub-2 {
+              font-size: 1.1rem;
+              font-weight: 400;
+              line-height: 2.200413097;
+              color: #60269e;
+              font-family: Inter, 'Source Sans Pro';
+            }
+          }
+        }
+        .auto-group-5xte-LnS {
+          margin: 0.3rem 8.903rem 0.56rem 0rem;
+          width: 15.2971rem;
+          height: calc(100% - 0.8601rem);
+          flex-shrink: 0;
+
+          .date-PEv {
+            font-weight: 300;
+            font-family: Inter, 'Source Sans Pro';
+            font-size: 1.6rem;
+            line-height: 1.2102272511;
+            color: #60269e;
+            white-space: nowrap;
+            margin-bottom: 1.5839rem;
+            width: 100%;
+            text-align: center;
+          }
+          .mar-30-2022-fy8 {
+            text-align: center;
+            color: #60269e;
+            font-family: Inter, 'Source Sans Pro';
+            white-space: nowrap;
+            margin-bottom: 2.9639rem;
+            font-size: 2rem;
+            font-weight: 400;
+            line-height: 1.2102272034;
+            width: 100%;
+          }
+          .mar-30-2022-mWN {
+            font-size: 2rem;
+            font-weight: 400;
+            line-height: 1.2102272034;
+            color: #60269e;
+            font-family: Inter, 'Source Sans Pro';
+            white-space: nowrap;
+            width: 100%;
+            text-align: center;
+          }
+        }
+        .auto-group-tpfy-fbk {
+          margin: 0rem 6.91rem 0.96rem 0rem;
+          width: 8.9896rem;
+          flex-shrink: 0;
+
+          .status-Ba6 {
+            text-align: center;
+            color: #60269e;
+            white-space: nowrap;
+            margin-bottom: 1.8839rem;
+            width: 100%;
+            font-size: 1.6rem;
+            font-weight: 300;
+            line-height: 1.2102272511;
+            font-family: Inter, 'Source Sans Pro';
+          }
+          .pending-H7L {
+            color: #d98d1c;
+            line-height: 1.2102272034;
+            width: 100%;
+            text-align: center;
+            font-size: 2rem;
+            font-weight: 400;
+            font-family: Inter, 'Source Sans Pro';
+            white-space: nowrap;
+            margin-bottom: 2.5639rem;
+          }
+          .pending-ykr {
+            white-space: nowrap;
+            width: 100%;
+            text-align: center;
+            font-size: 2rem;
+            font-weight: 400;
+            line-height: 1.2102272034;
+            color: #d98d1c;
+            font-family: Inter, 'Source Sans Pro';
+          }
+        }
+        .auto-group-dfd4-HWe {
+          margin: 0.6rem 0rem 0.56rem 0rem;
+          width: 13.1273rem;
+          height: calc(100% - 1.1601rem);
+          flex-shrink: 0;
+
+          .amount-ZDG {
+            width: 100%;
+            font-size: 1.6rem;
+            font-weight: 300;
+            line-height: 1.2102272511;
+            color: #60269e;
+            margin-bottom: 1.6839rem;
+            text-align: center;
+            font-family: Inter, 'Source Sans Pro';
+            white-space: nowrap;
+          }
+          .rp-59000-rCN {
+            line-height: 1.2102272034;
+            color: #60269e;
+            font-family: Inter, 'Source Sans Pro';
+            white-space: nowrap;
+            margin-bottom: 2.5639rem;
+            font-size: 2rem;
+            font-weight: 400;
+          }
+          .rp-149000-MQ2 {
+            line-height: 1.2102272034;
+            color: #60269e;
+            font-family: Inter, 'Source Sans Pro';
+            white-space: nowrap;
+            margin-left: 0.2rem;
+            font-size: 2rem;
+            font-weight: 400;
+          }
+        }
+      }
+    }
+    .group-3480-PrW {
+      top: 8.6rem;
+      width: 43.8483rem;
+      height: 19.8888rem;
+      position: absolute;
+      left: 123.9rem;
+
+      .rectangle-13-TrN {
+        width: 42.0471rem;
+        height: 19.8888rem;
+        position: absolute;
+        left: 1.8012rem;
+        top: 0;
+        object-fit: contain;
+        vertical-align: top;
+        border-radius: 1rem;
+      }
+      .dadang-korneto-k4n {
+        font-family: Inter, 'Source Sans Pro';
+        width: 22.13rem;
+        height: 2.3579rem;
+        position: absolute;
+        font-size: 2.4rem;
+        font-weight: 600;
+        line-height: 1.2102272511;
+        left: 16rem;
+        top: 4.9rem;
+        text-align: center;
+        color: #60269e;
+        white-space: nowrap;
+      }
+      .item-0878923642194-oHx {
+        top: 12.6rem;
+        text-align: center;
+        line-height: 1.2102272034;
+        color: #60269e;
+        font-family: Inter, 'Source Sans Pro';
+        width: 20.3559rem;
+        position: absolute;
+        font-size: 2rem;
+        font-weight: 600;
+        white-space: nowrap;
+        height: 2.3266rem;
+        left: 16rem;
+      }
+      .profile-FQr {
+        font-family: Inter, 'Source Sans Pro';
+        left: 0;
+        font-weight: 800;
+        line-height: 1.2102272034;
+        top: 0.6755rem;
+        text-align: center;
+        font-size: 3rem;
+        color: #60269e;
+        white-space: nowrap;
+        width: 15.491rem;
+        height: 2.8705rem;
+        position: absolute;
+      }
+      .group-3478-Yuk {
+        vertical-align: top;
+        border-radius: 14.4rem;
+        width: 9.3815rem;
+        height: 8.7865rem;
+        position: absolute;
+        left: 5.4788rem;
+        top: 5.1786rem;
+        object-fit: contain;
+      }
+      .dangskygmailcom-UHc {
+        text-align: center;
+        font-size: 2rem;
+        line-height: 1.2102272034;
+        width: 28.3785rem;
+        height: 2.3579rem;
+        position: absolute;
+        left: 13.4rem;
+        top: 8.8rem;
+        white-space: nowrap;
+        font-weight: 400;
+        color: #60269e;
+        font-family: Inter, 'Source Sans Pro';
+      }
+    }
+    .increase-Lai {
+      vertical-align: top;
+      width: 10.2rem;
+      height: 8.7rem;
+      position: absolute;
+      left: 132.6rem;
+      top: 37.9rem;
+      object-fit: cover;
+    }
+    .group-3482-UB8 {
+      top: 8.6rem;
+      width: 60rem;
+      height: 19.9rem;
+      position: absolute;
+      left: 63.2rem;
+
+      .rectangle-12-nSi {
+        height: 19.9rem;
+        position: absolute;
+        left: 0.8rem;
+        top: 0;
+        object-fit: contain;
+        vertical-align: top;
+        border-radius: 1rem;
+        width: 59.2rem;
+      }
+      .product-hpa {
+        height: 3.4501rem;
+        position: absolute;
+        text-align: center;
+        font-size: 3rem;
+        font-weight: 800;
+        line-height: 1.2102272034;
+        font-family: Inter, 'Source Sans Pro';
+        width: 14.8603rem;
+        white-space: nowrap;
+        top: 0.4503rem;
+        color: #60269e;
+        left: 0;
+      }
+      .top-up-NA2 {
+        left: 4.4rem;
+        font-size: 2rem;
+        color: #60269e;
+        font-family: Inter, 'Source Sans Pro';
+        white-space: nowrap;
+        height: 2.3rem;
+        position: absolute;
+        top: 16.2rem;
+        font-weight: 400;
+        line-height: 1.2102272034;
+        width: 8.3rem;
+      }
+      .phone-tokens-f98 {
+        width: 18.3127rem;
+        height: 2.3001rem;
+        top: 16.0611rem;
+        text-align: center;
+        font-size: 2rem;
+        color: #60269e;
+        font-family: Inter, 'Source Sans Pro';
+        position: absolute;
+        left: 14.8603rem;
+        font-weight: 400;
+        line-height: 1.2102272034;
+        white-space: nowrap;
+      }
+      .split-bills-vqk {
+        top: 16.2rem;
+        font-weight: 400;
+        line-height: 1.2102272034;
+        font-family: Inter, 'Source Sans Pro';
+        white-space: nowrap;
+        width: 9rem;
+        height: 2.3rem;
+        position: absolute;
+        left: 34.9rem;
+        text-align: center;
+        font-size: 2rem;
+        color: #60269e;
+      }
+      .image-1-qC2 {
+        width: 9.5316rem;
+        height: 8.7944rem;
+        position: absolute;
+        left: 3.3023rem;
+        top: 5.1786rem;
+        object-fit: cover;
+        vertical-align: top;
+      }
+      .group-3484-Ys8 {
+        top: 5.1786rem;
+        width: 9.1742rem;
+        height: 8.7792rem;
+        position: absolute;
+        left: 19.4385rem;
+
+        .group-3476-FFk {
+          position: absolute;
+          left: 0;
+          top: 0;
+          object-fit: contain;
+          vertical-align: top;
+          border-radius: 14.4rem;
+          width: 9.1742rem;
+          height: 8.7792rem;
+        }
+        .mask-group-xR4 {
+          height: 2.3808rem;
+          position: absolute;
+          left: 0.0778rem;
+          top: 4.2408rem;
+          object-fit: contain;
+          vertical-align: top;
+          width: 5.3646rem;
+        }
+        .mask-group-3SW {
+          top: 1.1904rem;
+          object-fit: contain;
+          vertical-align: top;
+          width: 3.1876rem;
+          height: 4.2408rem;
+          position: absolute;
+          left: 4.6649rem;
+        }
+        .line-14-k62 {
+          height: 0.1rem;
+          position: absolute;
+          left: 3.1099rem;
+          top: 2.3064rem;
+          background-color: #60269e;
+          width: 2.8767rem;
+        }
+      }
+      .group-3485-qdG {
+        top: 5.2536rem;
+        width: 8.9154rem;
+        height: 8.795rem;
+        position: absolute;
+        left: 34.8242rem;
+
+        .group-3477-vuc {
+          left: 0;
+          top: 0;
+          object-fit: contain;
+          vertical-align: top;
+          border-radius: 14.4rem;
+          width: 8.9154rem;
+          height: 8.795rem;
+          position: absolute;
+        }
+        .mask-group-3US {
+          width: 4.4577rem;
+          height: 4.6211rem;
+          position: absolute;
+          left: 2.4178rem;
+          top: 2.087rem;
+          object-fit: contain;
+          vertical-align: top;
+        }
+      }
+    }
+    .rp-320000-Wsp {
+      white-space: nowrap;
+      width: 15.5rem;
+      top: 47.2rem;
+      text-align: center;
+      color: #60269e;
+      font-family: Inter, 'Source Sans Pro';
+      line-height: 1.2102272511;
+      height: 2.4rem;
+      position: absolute;
+      left: 149.2rem;
+      font-size: 2.4rem;
+      font-weight: 800;
+    }
+    .expenses-nKY {
+      position: absolute;
+      text-align: center;
+      font-size: 3.2rem;
+      line-height: 1.2102272511;
+      color: #e63a57;
+      font-family: Inter, 'Source Sans Pro';
+      white-space: nowrap;
+      width: 15.7rem;
+      height: 3.4rem;
+      left: 148.8rem;
+      top: 50rem;
+      font-weight: 600;
+    }
+    .group-3474-3WN {
+      padding: 0.65rem 0.767rem 0.65rem 0.657rem;
+      width: 15.0104rem;
+      position: absolute;
+      background-size: cover;
+      background-position: center;
+      box-sizing: border-box;
+      height: 3.9027rem;
+      left: 151.038rem;
+      top: 32.4464rem;
+      display: flex;
+      align-items: center;
+      background-repeat: no-repeat;
+      background-image: url('REPLACE_IMAGE:2:746');
+
+      .calendar-1-5hx {
+        margin-right: 0.8765rem;
+        width: 2.6296rem;
+        height: 2.6018rem;
+        object-fit: cover;
+        vertical-align: top;
+        flex-shrink: 0;
+      }
+      .maret-2022-PCr {
+        font-weight: 800;
+        color: #d7c3ec;
+        font-family: Inter, 'Source Sans Pro';
+        text-align: center;
+        font-size: 1.6rem;
+        white-space: nowrap;
+        flex-shrink: 0;
+        margin-top: 0.1084rem;
+        line-height: 1.2102272511;
+      }
+    }
+    .decrease-Swp {
+      width: 10.4rem;
+      height: 8.7rem;
+      position: absolute;
+      left: 151.4rem;
+      top: 37.9rem;
+      object-fit: cover;
+      vertical-align: top;
+    }
+    .mask-group-YEA {
+      width: 3.1522rem;
+      height: 3.0021rem;
+      position: absolute;
+      left: 1.426rem;
+      top: 22.7664rem;
+      object-fit: contain;
+      vertical-align: top;
+    }
+    .rectangle-4207-dmQ {
+      position: absolute;
+      left: 0;
+      top: 0;
+      box-shadow: 0 0.4rem 0.4rem rgba(0, 0, 0, 0.25);
+      background-color: rgba(255, 255, 255, 0.8500000238);
+      width: 169rem;
+      height: 80rem;
+    }
+    .split-bill-6ez {
+      width: 100.6rem;
+      height: 59.6rem;
+      top: 10.9rem;
+      overflow: hidden;
+      align-items: flex-end;
+      box-shadow: 0 0.4rem 0.4rem rgba(0, 0, 0, 0.25);
+      background-color: #f6eeff;
+      border-radius: 12rem;
+      position: absolute;
+      left: 36.7rem;
+      display: flex;
+
+      .auto-group-mu8a-BwL {
+        margin: 0rem 1rem 1.8rem 0rem;
+        width: 74.6rem;
+        height: 51.6rem;
+        position: relative;
+        flex-shrink: 0;
+
+        .group-6-rna {
+          object-fit: contain;
+          vertical-align: top;
+          width: 32.9092rem;
+          height: 27.7516rem;
+          position: absolute;
+          left: 0;
+          top: 14.7rem;
+        }
+        .rectangle-4204-mPk {
+          position: absolute;
+          left: 33.6rem;
+          top: 0;
+          object-fit: contain;
+          vertical-align: top;
+          border-radius: 10rem;
+          width: 31rem;
+          height: 30.4rem;
+        }
+        .rectangle-4223-47x {
+          object-fit: contain;
+          vertical-align: top;
+          width: 10rem;
+          height: 10rem;
+          position: absolute;
+          left: 28.8rem;
+          top: 41.6rem;
+        }
+        .scan-here--Z4i {
+          left: 39rem;
+          font-weight: 800;
+          font-family: Inter, 'Source Sans Pro';
+          width: 28.5rem;
+          height: 3.7rem;
+          position: absolute;
+          color: #784499;
+          white-space: nowrap;
+          top: 3rem;
+          font-size: 3.6rem;
+          line-height: 1.2102272246;
+        }
+        .image-removebg-preview-1-1SW {
+          left: 39.5rem;
+          top: 8.5rem;
+          object-fit: cover;
+          vertical-align: top;
+          width: 19.1rem;
+          height: 18.5rem;
+          position: absolute;
+        }
+        .dadang-korneto-0878923642194-JAi {
+          left: 38.5rem;
+          font-family: Inter, 'Source Sans Pro';
+          position: absolute;
+          white-space: nowrap;
+          display: flex;
+          height: 2.9rem;
+          font-weight: 400;
+          align-items: baseline;
+          width: 21.1rem;
+          top: 31.7rem;
+          text-align: center;
+          font-size: 2rem;
+          line-height: 1.2102272034;
+          color: #a584c8;
+
+          .dadang-korneto-0878923642194-JAi-sub-0 {
+            font-weight: 600;
+            line-height: 1.5127840042;
+            color: #a584c8;
+            font-family: Inter, 'Source Sans Pro';
+            font-size: 1.6rem;
+          }
+          .dadang-korneto-0878923642194-JAi-sub-1 {
+            font-weight: 400;
+            line-height: 2.200413097;
+            color: #a584c8;
+            font-family: Inter, 'Source Sans Pro';
+            font-size: 1.1rem;
+          }
+        }
+        .step-4Si {
+          left: 23.5rem;
+          top: 37.2rem;
+          width: 51.1rem;
+          height: 7rem;
+          position: absolute;
+
+          .rectangle-4205-ypa {
+            position: absolute;
+            left: 7.2rem;
+            top: 0;
+            object-fit: contain;
+            vertical-align: top;
+            border-radius: 10rem;
+            width: 6.7rem;
+            height: 3.8rem;
+          }
+          .scan-this-qr-code-giz {
+            left: 0;
+            top: 4.1rem;
+            white-space: nowrap;
+            color: #a584c8;
+            width: 21.1rem;
+            height: 2.9rem;
+            position: absolute;
+            text-align: center;
+            font-size: 1.1rem;
+            font-weight: 600;
+            line-height: 1.2102272727;
+            font-family: Inter, 'Source Sans Pro';
+          }
+          .step-1-vNS {
+            text-align: center;
+            line-height: 1.2102272034;
+            font-family: Inter, 'Source Sans Pro';
+            white-space: nowrap;
+            height: 3.8rem;
+            position: absolute;
+            left: 5.8rem;
+            font-weight: 800;
+            color: #784499;
+            width: 9.6rem;
+            top: 1.1rem;
+            font-size: 1.5rem;
+          }
+          .rectangle-4224-m8A {
+            vertical-align: top;
+            border-radius: 10rem;
+            width: 6.7rem;
+            height: 3.8rem;
+            position: absolute;
+            left: 22rem;
+            top: 0;
+            object-fit: contain;
+          }
+          .check-notification-rQW {
+            width: 21.1rem;
+            height: 2.9rem;
+            top: 4.1rem;
+            font-size: 1.1rem;
+            font-weight: 600;
+            font-family: Inter, 'Source Sans Pro';
+            white-space: nowrap;
+            position: absolute;
+            left: 14.8rem;
+            text-align: center;
+            line-height: 1.2102272727;
+            color: #a584c8;
+          }
+          .step-2-Wzr {
+            position: absolute;
+            font-size: 1.5rem;
+            font-weight: 800;
+            white-space: nowrap;
+            width: 9.6rem;
+            height: 3.8rem;
+            text-align: center;
+            line-height: 1.2102272034;
+            color: #784499;
+            font-family: Inter, 'Source Sans Pro';
+            left: 20.6rem;
+            top: 1.1rem;
+          }
+          .arrow-1-C6z {
+            left: 15.2rem;
+            top: 2rem;
+            object-fit: contain;
+            vertical-align: top;
+            width: 5.3rem;
+            height: 0;
+            position: absolute;
+          }
+          .rectangle-4225-v2z {
+            top: 0;
+            object-fit: contain;
+            vertical-align: top;
+            border-radius: 10rem;
+            width: 6.7rem;
+            height: 3.8rem;
+            position: absolute;
+            left: 37.2rem;
+          }
+          .instantly-pay-E3g {
+            width: 21.1rem;
+            left: 30rem;
+            white-space: nowrap;
+            line-height: 1.2102272727;
+            color: #a584c8;
+            height: 2.9rem;
+            position: absolute;
+            top: 4.1rem;
+            text-align: center;
+            font-size: 1.1rem;
+            font-weight: 600;
+            font-family: Inter, 'Source Sans Pro';
+          }
+          .step-3-W1C {
+            height: 3.8rem;
+            text-align: center;
+            font-size: 1.5rem;
+            font-weight: 800;
+            color: #784499;
+            font-family: Inter, 'Source Sans Pro';
+            white-space: nowrap;
+            width: 9.6rem;
+            left: 35.8rem;
+            top: 1.1rem;
+            line-height: 1.2102272034;
+            position: absolute;
+          }
+          .arrow-2-nDc {
+            height: 0;
+            position: absolute;
+            left: 30.4rem;
+            top: 2rem;
+            object-fit: contain;
+            vertical-align: top;
+            width: 5.3rem;
+          }
+        }
+        .buttonbackqrpay-6zz {
+          width: 20.3rem;
+          height: 5.1rem;
+          color: #ffffff;
+          border-radius: 5rem;
+          position: absolute;
+          line-height: 1.171875;
+          font-family: Roboto, 'Source Sans Pro';
+          display: flex;
+          justify-content: center;
+          left: 20.7rem;
+          top: 44.9rem;
+          font-weight: 500;
+          align-items: center;
+          font-size: 1.8rem;
+          white-space: nowrap;
+          background: linear-gradient(95.33deg, #60269e -11.97%, #d7c3ec 105%);
+        }
+      }
+      .auto-group-mwaa-rsg {
+        flex-shrink: 0;
+        width: 95.9rem;
+        height: 111.7rem;
+        position: relative;
+
+        .x-xQv {
+          font-size: 6.4rem;
+          font-weight: 800;
+          width: 4.7rem;
+          height: 4.9rem;
+          text-align: center;
+          line-height: 1.2102272511;
+          color: #60269e;
+          font-family: Inter, 'Source Sans Pro';
+          white-space: nowrap;
+          position: absolute;
+          left: 27.7rem;
+          top: 14.9rem;
+        }
+        .rectangle-10-2fg {
+          left: 7.2rem;
+          top: 0;
+          background-color: #60269e;
+          width: 88.7rem;
+          height: 111.7rem;
+          position: absolute;
+        }
+        .rectangle-10-YP8 {
+          width: 33.3rem;
+          height: 43.1rem;
+          position: absolute;
+          left: 7.2rem;
+          top: 19.7rem;
+          background-color: #60269e;
+        }
+        .group-5-2p6 {
+          height: 27.7516rem;
+          position: absolute;
+          left: 16.1908rem;
+          top: 25.6188rem;
+          object-fit: contain;
+          vertical-align: top;
+          width: 32.9092rem;
+        }
+        .ellipse-22-LZt {
+          position: absolute;
+          left: 16.1rem;
+          top: 55rem;
+          box-sizing: border-box;
+          background: linear-gradient(140.67deg, rgba(3, 207, 251, 0) 8.89%, #03cffb 57.48%);
+          border-radius: 11.35rem;
+          width: 22.7rem;
+          height: 22.7rem;
+        }
+        .ellipse-23-YAA {
+          width: 30.1rem;
+          height: 22.5rem;
+          position: absolute;
+          left: 0;
+          top: 5.7rem;
+          object-fit: contain;
+          vertical-align: top;
+        }
+        .transfree-gGN {
+          height: 3.7rem;
+          top: 15.8rem;
+          text-align: center;
+          font-weight: 800;
+          font-style: italic;
+          color: #60269e;
+          white-space: nowrap;
+          width: 17.6rem;
+          position: absolute;
+          left: 10.4rem;
+          font-size: 3.6rem;
+          line-height: 1.2102272246;
+          font-family: Inter, 'Source Sans Pro';
+        }
+        .layersfill-Nut {
+          vertical-align: top;
+          width: 5.1333rem;
+          height: 4.717rem;
+          position: absolute;
+          left: 3.0833rem;
+          top: 16.0875rem;
+          object-fit: contain;
+        }
+      }
+    }
+  }
+}
