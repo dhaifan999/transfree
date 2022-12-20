@@ -58,11 +58,11 @@ body {
   height: 3.9rem;
   position: absolute;
   left: 0;
-  top: 0;
+  top: 1rem;
   font-size: 3.2rem;
   font-weight: 700;
   line-height: 1.2102272511;
-  color: #000000;
+  color: #60269e;
   font-family: Inter, 'Source Sans Pro';
   white-space: nowrap;
 }
@@ -121,11 +121,11 @@ body {
   height: 3.9rem;
   position: absolute;
   left: 0;
-  top: 2.5rem;
+  top: 4.5rem;
   font-size: 3.2rem;
   font-weight: 700;
   line-height: 1.2102272511;
-  color: #150d0d;
+  color: #d7c2ec;
   font-family: Inter, 'Source Sans Pro';
   white-space: nowrap;
 }
@@ -230,6 +230,17 @@ body {
   flex-direction: column;
   flex-shrink: 0;
 }
+.password{
+  margin-bottom: 0.6rem;
+  font-size: 2rem;
+  font-weight: 200;
+  line-height: 1.171875;
+  color: #727171;
+  width: 450px;
+  font-family: Roboto, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
 .login-page-RJn .input-MiE .text-input-gVc .inputs-CAS .group-3333-Agv .password-L5c {
   margin-bottom: 0.6rem;
   font-size: 2rem;
@@ -295,10 +306,11 @@ body {
   flex-shrink: 0;
 }
 .login-page-RJn .input-MiE .signin-other-BkS .signup-vCE .frame-3376-UUe .buttonsignin-QdC {
-  width: 100%;
+  width: 300px;
   height: 5rem;
   font-size: 1.8rem;
   font-weight: 700;
+  border-color: #60269e;
   line-height: 1.171875;
   color: #f0f9f1;
   font-family: Roboto, 'Source Sans Pro';
@@ -312,12 +324,13 @@ body {
   flex-shrink: 0;
 }
 .login-page-RJn .input-MiE .signin-other-BkS .signup-vCE .frame-3376-UUe .buttonquicktf-Ud4 {
-  width: 100%;
+  width: 300px;
   height: 5rem;
   font-size: 1.8rem;
   font-weight: 700;
+  border-color: #d7c2ec;
   line-height: 1.171875;
-  color: #f0f9f1;
+  color: #60269e;
   font-family: Roboto, 'Source Sans Pro';
   white-space: nowrap;
   display: flex;
@@ -528,10 +541,10 @@ body {
   width: 24.2rem;
   height: 5.6rem;
   position: absolute;
-  left: 12.7rem;
+  left: 8.7rem;
   top: 34.8rem;
   text-align: center;
-  font-size: 4rem;
+  font-size: 7rem;
   font-weight: 800;
   line-height: 1.2102272034;
   font-style: italic;

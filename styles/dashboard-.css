@@ -38,7 +38,7 @@ body {
 .dashboard--Rc2 .qrpay-Yge .have-something-to-pay-eDt {
   margin-bottom: 0.9852rem;
   width: 100%;
-  text-align: center;
+  text-align: left;
   font-size: 3rem;
   font-weight: 800;
   line-height: 1.2102272034;
@@ -74,6 +74,7 @@ body {
   background-position: center;
   background-image: url('../assets/rectangle-18-ymx.png');
   border-radius: 1rem;
+  border-color: #d6c2eb;
 }
 .dashboard--Rc2 .upcomingpayments-KUS {
   box-sizing: border-box;
@@ -221,15 +222,20 @@ body {
   white-space: nowrap;
 }
 .dashboard--Rc2 .upcomingpayments-KUS .auto-group-bh8n-yMx .update2-9ve {
-  width: 100%;
+  margin-bottom: 1rem;
+  width: 13.9659rem;
+  height: 1.8013rem;
+  left: 43.7rem;
+  bottom: 5rem;
+  position: absolute;
   text-align: center;
   font-size: 2rem;
   font-weight: 400;
-  line-height: 1.2102272034;
   color: #60269e;
   font-family: Inter, 'Source Sans Pro';
   white-space: nowrap;
 }
+
 .dashboard--Rc2 .upcomingpayments-KUS .auto-group-zzmc-Hmx {
   margin: 5.2rem 8.303rem 6.164rem 0rem;
   width: 8.9896rem;
@@ -248,7 +254,7 @@ body {
   white-space: nowrap;
 }
 .dashboard--Rc2 .upcomingpayments-KUS .auto-group-zzmc-Hmx .upstatus1-wrW {
-  margin-bottom: 2.5639rem;
+  margin-bottom: 1.6639rem;
   width: 100%;
   text-align: center;
   font-size: 2rem;
@@ -259,6 +265,7 @@ body {
   white-space: nowrap;
 }
 .dashboard--Rc2 .upcomingpayments-KUS .auto-group-zzmc-Hmx .update12-tFx {
+  margin-bottom: 1.6rem;
   width: 100%;
   text-align: center;
   font-size: 2rem;
@@ -308,7 +315,7 @@ body {
 .dashboard--Rc2 .upcomingpayments-KUS .auto-group-4ene-2NA .auto-group-1mcn-Hot .rp-rp-DSe .rp-rp-DSe-sub-1 {
   font-size: 2rem;
   font-weight: 400;
-  line-height: 1.2102272034;
+  line-height: 2;
   letter-spacing: 0.04rem;
   color: #60269e;
   font-family: Inter, 'Source Sans Pro';
@@ -318,7 +325,7 @@ body {
   height: 1.8013rem;
   position: absolute;
   left: 0.9rem;
-  top: 0.2rem;
+  top: -0.5rem;
   text-align: right;
   font-size: 2rem;
   font-weight: 400;
@@ -328,7 +335,8 @@ body {
   white-space: nowrap;
 }
 .dashboard--Rc2 .upcomingpayments-KUS .auto-group-4ene-2NA .upnominals2-HL2 {
-  margin-left: 1.0076rem;
+  margin-left: 1.1rem;
+  bottom: 3rem;
   text-align: right;
   font-size: 2rem;
   font-weight: 400;
@@ -397,14 +405,14 @@ body {
   white-space: nowrap;
 }
 .dashboard--Rc2 .profile-PP4 .profilepict-BiE {
-  width: 9.3815rem;
+  width: 8.7865rem;
   height: 8.7865rem;
   position: absolute;
   left: 6.1rem;
   top: 5.7rem;
   object-fit: contain;
   vertical-align: top;
-  border-radius: 14.4rem;
+  border-radius: 100rem;
 }
 .dashboard--Rc2 .profile-PP4 .profileemail-K3k {
   width: 28.3785rem;
@@ -601,7 +609,7 @@ body {
   height: 2.927rem;
   position: absolute;
   left: 0.0408rem;
-  top: 4.8524rem;
+  top: 4.9524rem;
   font-size: 1.1rem;
   font-weight: 400;
   line-height: 1.2102272727;
@@ -810,13 +818,13 @@ body {
 }
 .dashboard--Rc2 .group-3502-cSA .auto-group-bqnn-x62 .auto-group-ermy-8Cn .auto-group-gkc2-DV8 .rp-rp-rp-rp-rp-FAv {
   width: 3.2rem;
-  height: 1.8rem;
+  height: 2.8rem;
   position: absolute;
   left: 0;
-  top: 0;
+  top: -2;
   font-size: 2rem;
   font-weight: 400;
-  line-height: 1.2102272034;
+  line-height: 1.9;
   color: #d7c3ec;
   font-family: Inter, 'Source Sans Pro';
 }
@@ -1016,13 +1024,13 @@ body {
 .dashboard--Rc2 .titledashboard-bdQ {
   box-sizing: border-box;
   padding: 1.9rem 1.8rem 2.9rem 1.8rem;
-  width: 221.7rem;
-  height: 14.1rem;
+  width: 400.7rem;
+  height: 7.1rem;
   position: absolute;
-  left: 1.800000000000003rem;
+  left: 21.800000000000003rem;
   top: 0;
   text-align: left;
-  font-size: 3.6rem;
+  font-size:3.6rem;
   font-weight: 800;
   line-height: 1.2102272246;
   color: #60269e;
@@ -1069,10 +1077,10 @@ body {
   width: 14rem;
   height: 2.3rem;
   position: absolute;
-  left: 3.7rem;
-  top: 14.5rem;
+  left: 4.7rem;
+  top: 15.5rem;
   text-align: center;
-  font-size: 2rem;
+  font-size: 1.8rem;
   font-weight: 400;
   line-height: 1.2102272034;
   color: #60269e;
@@ -1108,7 +1116,7 @@ body {
 }
 .dashboard--Rc2 .product-mAW .buttontopup-XL2 {
   width: 9.5316rem;
-  height: 8.7944rem;
+  height: 9.5316rem;
   position: absolute;
   left: 6.6023rem;
   top: 5.1786rem;
@@ -1200,8 +1208,10 @@ body {
 }
 .dashboard--Rc2 .ballance-3Ui .balance-91x {
   margin-bottom: 3.7994rem;
+  padding-left: 1.8rem;
   width: 100%;
-  text-align: center;
+  text-align: left;
+  left: 21.8rem;
   font-size: 3rem;
   font-weight: 800;
   line-height: 1.2102272034;
