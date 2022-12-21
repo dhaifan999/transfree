@@ -52,7 +52,7 @@ body {
   font-size: 3.2rem;
   font-weight: 700;
   line-height: 1.2102272511;
-  color: #150d0d;
+  color: #60269e;
   font-family: Inter, 'Source Sans Pro';
   white-space: nowrap;
 }
@@ -66,11 +66,11 @@ body {
   height: 3.9rem;
   position: absolute;
   left: 0;
-  top: 0;
-  font-size: 3.2rem;
+  top: -2rem;
+  font-size: 2.2rem;
   font-weight: 700;
   line-height: 1.2102272511;
-  color: #000000;
+  color: #d7c2ec;
   font-family: Inter, 'Source Sans Pro';
   white-space: nowrap;
 }
@@ -146,7 +146,7 @@ body {
   font-size: 2rem;
   font-weight: 500;
   line-height: 1.171875;
-  color: #150d0d;
+  color: #60269e;
   font-family: Roboto, 'Source Sans Pro';
   white-space: nowrap;
   flex-shrink: 0;
@@ -164,6 +164,7 @@ body {
   flex-shrink: 0;
 }
 .register-page-DV8 .signup-content-Z3C .text-input-s3t .inputs-NCv .group-3331-VHY .group-3330-nGe .signupuname-heW {
+  width: 20rem;
   margin: 0.15rem 40.6rem 0rem 0rem;
   font-size: 1.6rem;
   font-weight: 400;
@@ -192,7 +193,7 @@ body {
   font-size: 2rem;
   font-weight: 500;
   line-height: 1.171875;
-  color: #150d0d;
+  color: #60269e;
   font-family: Roboto, 'Source Sans Pro';
   white-space: nowrap;
   flex-shrink: 0;
@@ -238,7 +239,7 @@ body {
   font-size: 2rem;
   font-weight: 500;
   line-height: 1.171875;
-  color: #150d0d;
+  color: #60269e;
   font-family: Roboto, 'Source Sans Pro';
   white-space: nowrap;
   flex-shrink: 0;
@@ -284,7 +285,7 @@ body {
   flex-shrink: 0;
 }
 .register-page-DV8 .signup-content-Z3C .auto-group-a6wv-F7c .button-AkN {
-  width: 100%;
+  width: 20rem;
   height: 5rem;
   font-size: 1.8rem;
   font-weight: 700;
@@ -299,6 +300,7 @@ body {
   background-color: #60269e;
   border-radius: 5rem;
   flex-shrink: 0;
+  border-color: #ffffff;
 }
 .register-page-DV8 .signup-content-Z3C .auto-group-a6wv-F7c .frame-3365-qbc {
   margin: 0 0.95rem;

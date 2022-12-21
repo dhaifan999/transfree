@@ -1304,11 +1304,11 @@ body {
   vertical-align: top;
 }
 .payment-details-NkE .group-3489-CjG .tf-j7t .transfer-normal-5Bk .rectangle-4204-j1Q {
-  width: 43rem;
-  height: 42.9rem;
+  width: 49rem;
+  height: 70.9rem;
   position: absolute;
-  left: 16.3rem;
-  top: 5.8rem;
+  left: 9.299999999999997rem;
+  top: -9.2rem;
   object-fit: contain;
   vertical-align: top;
   border-radius: 2.5rem;
@@ -1344,6 +1344,7 @@ body {
   justify-content: center;
   background: linear-gradient(95.33deg, #b977ff -11.97%, #60269e 105%);
   border-radius: 5rem;
+  border-color: #ffffff;
 }
 .payment-details-NkE .group-3489-CjG .tf-j7t .transfer-normal-5Bk .buttonbackpaymentdetails-bhp {
   width: 20.3rem;
@@ -1362,6 +1363,7 @@ body {
   justify-content: center;
   background: linear-gradient(95.33deg, #60269e -11.97%, #d7c3ec 105%);
   border-radius: 5rem;
+  border-color: #ffffff;
 }
 .payment-details-NkE .group-3489-CjG .tf-j7t .transfer-normal-5Bk .button-FXU {
   width: 25.4rem;
@@ -1373,7 +1375,7 @@ body {
   font-size: 1.8rem;
   font-weight: 800;
   line-height: 1.2125;
-  color: #ffffff;
+  color: #f0f9f1;
   font-family: Inter, 'Source Sans Pro';
   white-space: nowrap;
   display: flex;
@@ -1593,6 +1595,7 @@ body {
   vertical-align: top;
 }
 .payment-details-NkE .group-3489-CjG .tf-j7t .transfer-normal-5Bk .button-pTQ {
+  text-align: center;
   box-sizing: border-box;
   padding: 1.05rem 2.1rem 0.95rem 2.1rem;
   width: 25.4rem;
