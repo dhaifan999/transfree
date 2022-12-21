@@ -1397,11 +1397,13 @@ body {
   justify-content: center;
   background: linear-gradient(95.33deg, #b977ff -11.97%, #60269e 105%);
   border-radius: 5rem;
+  border-color: #ffffff;
 }
 .quick-transfer-mxS .group-3499-LPG .pay-reg-trJ .transactions-DNn .button-hDQ {
   width: 25.4rem;
   height: 4.2rem;
   position: absolute;
+  text-align: center;
   left: 26.1rem;
   top: 16.5rem;
   font-size: 1.8rem;
@@ -1470,6 +1472,7 @@ body {
   white-space: nowrap;
 }
 .quick-transfer-mxS .group-3499-LPG .pay-reg-trJ .transactions-DNn .button-NsG {
+  text-align: center;
   width: 25.4rem;
   height: 4.2rem;
   position: absolute;
@@ -1582,6 +1585,7 @@ body {
   width: 25.4rem;
   height: 4.2rem;
   position: absolute;
+  text-align: center;
   left: 25.8rem;
   top: 36.7rem;
   font-size: 1.8rem;
@@ -1600,6 +1604,7 @@ body {
 .quick-transfer-mxS .group-3499-LPG .pay-reg-trJ .transactions-DNn .button-aGW {
   width: 25.4rem;
   height: 4.2rem;
+  text-align: center;
   position: absolute;
   left: 25.8rem;
   top: 44.9rem;

@@ -1335,6 +1335,7 @@ body {
   justify-content: center;
   background: linear-gradient(95.33deg, #b977ff -11.97%, #60269e 105%);
   border-radius: 5rem;
+  border-color: white;
 }
 .phone-tokens-ogi .transfer-normal-Z7C .buttonbackpt-sfc {
   width: 20.3rem;
@@ -1353,6 +1354,7 @@ body {
   justify-content: center;
   background: linear-gradient(95.33deg, #60269e -11.97%, #d7c3ec 105%);
   border-radius: 5rem;
+  border-color: #ffffff;
 }
 .phone-tokens-ogi .transfer-normal-Z7C .rectangle-10-jSv {
   width: 88.7rem;
@@ -1483,6 +1485,7 @@ body {
   color: #60269e;
   font-family: Inter, 'Source Sans Pro';
   white-space: nowrap;
+  background-color: #d6c2eb;
 }
 .phone-tokens-ogi .transfer-normal-Z7C .for-rp-21000-gKY {
   width: 9rem;

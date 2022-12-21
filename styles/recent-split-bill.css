@@ -1403,6 +1403,10 @@ body {
   box-shadow: 0 0.4rem 0.4rem rgba(0, 0, 0, 0.25);
   background-color: #a584c8;
   border-radius: 1.85rem;
+  border-color: #ffffff;
+  color: #ffffff;
+  font-size: x-large;
+  font-weight: 800;
 }
 .recent-split-bill-Ryx .group-3500-M6v .split-bill-Cyk .add-button-ufC .item--xtN {
   width: 2.5rem;
@@ -1416,6 +1420,7 @@ body {
   color: #f2ebf9;
   font-family: Inter, 'Source Sans Pro';
   white-space: nowrap;
+  border-color: #ffffff;
 }
 .recent-split-bill-Ryx .group-3500-M6v .split-bill-Cyk .x-g3g {
   width: 4.7rem;
@@ -1487,6 +1492,21 @@ body {
   line-height: 1.2102272246;
   font-style: italic;
   color: #60269e;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.recent-split-bill-Ryx .group-3500-M6v .split-bill-Cyk .transfree-yqQ-X {
+  width: 44.5rem;
+  height: 3rem;
+  position: absolute;
+  left: 72.1rem;
+  top: 4.9rem;
+  text-align: center;
+  font-size: 5rem;
+  font-weight: 800;
+  line-height: 1.2102272246;
+  font-style: italic;
+  color: #ffffff;
   font-family: Inter, 'Source Sans Pro';
   white-space: nowrap;
 }
@@ -1715,4 +1735,18 @@ body {
   top: 43.2rem;
   object-fit: contain;
   vertical-align: top;
+}
+.buttobbackts-bNE{
+  width: 4.8rem;
+  height: 7.8rem;
+  position: absolute;
+  left: 93.05rem;
+  top: 5.8rem;
+  text-align: center;
+  font-size: 6.4rem;
+  font-weight: 800;
+  line-height: 1.2125;
+  color: #f6eeff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
 }

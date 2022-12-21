@@ -1316,7 +1316,8 @@ body {
 }
 .payment-premium-PEe .group-3497-K8J .pay-premium-R8S .transfer-normal-ZEe {
   width: 100%;
-  height: 100%;
+  height: 70rem;
+  top: -8rem;
   overflow: hidden;
   position: relative;
   display: flex;
@@ -1353,9 +1354,9 @@ body {
 .payment-premium-PEe .group-3497-K8J .pay-premium-R8S .transfer-normal-ZEe .auto-group-rqgn-W9t .auto-group-uj14-DKC .rectangle-4204-V1p {
   width: 43.9rem;
   height: 40.4rem;
-  position: absolute;
+  position: relative;
   left: 28.9rem;
-  top: 0;
+  top: 14rem;
   object-fit: contain;
   vertical-align: top;
   border-radius: 2.5rem;
@@ -1365,7 +1366,7 @@ body {
   height: 3rem;
   position: absolute;
   left: 30.4rem;
-  top: 0.95rem;
+  top: 15rem;
   font-size: 2.4rem;
   font-weight: 800;
   line-height: 1.2125;
@@ -1381,6 +1382,8 @@ body {
   top: 4.3rem;
 }
 .payment-premium-PEe .group-3497-K8J .pay-premium-R8S .transfer-normal-ZEe .auto-group-rqgn-W9t .auto-group-uj14-DKC .payment-system-vN2 .bank-transfer-FfC {
+  position: relative;
+  top: 14rem;
   margin-bottom: 0.6rem;
   font-size: 1.4rem;
   font-weight: 600;
@@ -1391,6 +1394,8 @@ body {
 }
 .payment-premium-PEe .group-3497-K8J .pay-premium-R8S .transfer-normal-ZEe .auto-group-rqgn-W9t .auto-group-uj14-DKC .payment-system-vN2 .auto-group-hdhy-axN {
   box-sizing: border-box;
+  position: relative;
+  top: 14rem;
   padding: 1.2rem 1rem 1.35rem 2.3rem;
   width: 100%;
   align-items: center;
@@ -1688,6 +1693,8 @@ body {
   top: 22.6rem;
 }
 .payment-premium-PEe .group-3497-K8J .pay-premium-R8S .transfer-normal-ZEe .auto-group-rqgn-W9t .auto-group-uj14-DKC .payment-system-hRx .virtual-account-S8e {
+  position: relative;
+  top: 13rem;
   margin-bottom: 0.6rem;
   font-size: 1.4rem;
   font-weight: 600;
@@ -1697,6 +1704,8 @@ body {
   white-space: nowrap;
 }
 .payment-premium-PEe .group-3497-K8J .pay-premium-R8S .transfer-normal-ZEe .auto-group-rqgn-W9t .auto-group-uj14-DKC .payment-system-hRx .auto-group-4ufy-mgi {
+  position: relative;
+  top: 13rem;
   box-sizing: border-box;
   padding: 1.2rem 1rem 1.35rem 2.3rem;
   width: 100%;
@@ -1982,6 +1991,8 @@ body {
 }
 .payment-premium-PEe .group-3497-K8J .pay-premium-R8S .transfer-normal-ZEe .auto-group-rqgn-W9t .buttonbackpayprem-LuU {
   margin: 0rem 31.8rem 0rem 20.7rem;
+  position: relative;
+  top: 10rem;
   width: calc(100% - 52.5rem);
   height: 5.1rem;
   font-size: 1.8rem;
@@ -2095,6 +2106,8 @@ body {
   align-items: flex-start;
 }
 .payment-premium-PEe .group-3497-K8J .step-ez2 .auto-group-ajnr-b8a {
+  top: -5rem;
+  position: relative;
   margin-right: 0.05rem;
   width: 5.3rem;
   height: 5.3rem;
@@ -2133,7 +2146,7 @@ body {
   height: 5.3rem;
   position: absolute;
   left: 9.05rem;
-  top: 0.1rem;
+  top: -5rem;
   box-shadow: 0 0.4rem 0.4rem rgba(0, 0, 0, 0.25);
   background-color: #60269e;
   border-radius: 2.65rem;
@@ -2142,8 +2155,8 @@ body {
   width: 5.3rem;
   height: 5.3rem;
   position: absolute;
-  left: 23.45rem;
-  top: 0;
+  left: 23.05rem;
+  top: -5rem;
   box-shadow: 0 0.4rem 0.4rem rgba(0, 0, 0, 0.25);
   background-color: #d7c3ec;
   border-radius: 2.65rem;
@@ -2153,7 +2166,7 @@ body {
   height: 3rem;
   position: absolute;
   left: 10.85rem;
-  top: 1.2rem;
+  top: -4rem;
   text-align: center;
   font-size: 2.4rem;
   font-weight: 800;
@@ -2166,8 +2179,8 @@ body {
   width: 1.7rem;
   height: 3rem;
   position: absolute;
-  left: 25.25rem;
-  top: 1.2rem;
+  left: 25rem;
+  top: -4rem;
   text-align: center;
   font-size: 2.4rem;
   font-weight: 800;
@@ -2177,6 +2190,8 @@ body {
   white-space: nowrap;
 }
 .payment-premium-PEe .group-3497-K8J .step-ez2 .auto-group-fnni-Acv {
+  top: -5rem;
+  position: relative;
   width: 5.3rem;
   height: 5.3rem;
   text-align: center;

@@ -1390,6 +1390,7 @@ body {
   justify-content: center;
   background: linear-gradient(95.33deg, #b977ff -11.97%, #60269e 105%);
   border-radius: 5rem;
+  border-color: #ffffff;
 }
 .transfer-TFt .group-3489-zFp .tf-eKQ .transfer-normal-P26 .buttonbacktransfer-S2J {
   width: 20.3rem;
@@ -1408,11 +1409,13 @@ body {
   justify-content: center;
   background: linear-gradient(95.33deg, #60269e -11.97%, #d7c3ec 105%);
   border-radius: 5rem;
+  border-color: #ffffff;
 }
 .transfer-TFt .group-3489-zFp .tf-eKQ .transfer-normal-P26 .button-W2A {
   width: 25.4rem;
   height: 4.2rem;
   position: absolute;
+  text-align: center;
   left: 25.1rem;
   top: 18.9rem;
   font-size: 1.8rem;
@@ -1490,6 +1493,7 @@ body {
   font-weight: 700;
   line-height: 1.171875;
   color: #f0f9f1;
+  text-align: center;
   font-family: Roboto, 'Source Sans Pro';
   white-space: nowrap;
   display: flex;
@@ -1607,6 +1611,7 @@ body {
   width: 25.4rem;
   height: 4.2rem;
   position: absolute;
+  text-align: center;
   left: 24.8rem;
   top: 39.8rem;
   font-size: 1.8rem;

@@ -1401,6 +1401,7 @@ body {
   justify-content: center;
   background: linear-gradient(95.33deg, #b977ff -11.97%, #60269e 105%);
   border-radius: 5rem;
+  border-color: #ffffff;
 }
 .split-bill-V5g .group-3500-asp .split-bill-18A .rectangle-10-CNz {
   width: 88.7rem;
@@ -1628,11 +1629,15 @@ body {
   width: 3.7rem;
   height: 3.7rem;
   position: absolute;
+  color: #ffffff;
+  font-size: x-large;
+  font-weight: 800;
   left: 0;
   top: 0.6rem;
   box-shadow: 0 0.4rem 0.4rem rgba(0, 0, 0, 0.25);
   background-color: #d7c2ec;
   border-radius: 1.85rem;
+  border-color: #ffffff;
 }
 .split-bill-V5g .group-3500-asp .split-bill-18A .add-button-MFC .item--Phg {
   width: 2.5rem;
@@ -1669,6 +1674,10 @@ body {
   color: #a584c8;
   font-family: Inter, 'Source Sans Pro';
 }
+.phone{
+  position: relative;
+  left: -13.65rem;
+}
 .split-bill-V5g .group-3500-asp .split-bill-18A .ramadhan-wahyu-phone-085156196251-Jpe .ramadhan-wahyu-phone-085156196251-Jpe-sub-1 {
   font-size: 1.1rem;
   font-weight: 400;
@@ -1692,6 +1701,7 @@ body {
   align-items: baseline;
 }
 .split-bill-V5g .group-3500-asp .split-bill-18A .alifia-ayu-masita-iphone-085156196252-JLn .alifia-ayu-masita-iphone-085156196252-JLn-sub-0 {
+  left: -20rem;
   font-size: 1.6rem;
   font-weight: 600;
   line-height: 1.5127840042;

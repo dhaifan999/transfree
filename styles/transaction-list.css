@@ -1370,6 +1370,7 @@ body {
   justify-content: center;
   background: linear-gradient(95.33deg, #60269e -11.97%, #d7c3ec 105%);
   border-radius: 5rem;
+  border-color: #ffffff;
 }
 .transaction-list-ArJ .group-3499-DJn .pay-reg-FzW .transfer-normal-c4N .rectangle-10-Z1Y {
   width: 88.7rem;
@@ -1507,7 +1508,7 @@ body {
   left: 35.2rem;
   top: 0.2rem;
   font-size: 1.3rem;
-  font-weight: 400;
+  font-weight: 600;
   line-height: 1.171875;
   color: #60269e;
   font-family: Roboto, 'Source Sans Pro';

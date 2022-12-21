@@ -1346,6 +1346,7 @@ body {
   font-family: Inter, 'Source Sans Pro';
   white-space: nowrap;
 }
+
 .transaction-on-progress-FHQ .group-3495-AfG .on-progress-Uut .transfer-normal-cmC .buttonnexttop-ykA {
   width: 20.3rem;
   height: 5.1rem;
@@ -1363,6 +1364,7 @@ body {
   justify-content: center;
   background: linear-gradient(95.33deg, #b977ff -11.97%, #60269e 105%);
   border-radius: 5rem;
+  border-color: #ffffff;
 }
 .transaction-on-progress-FHQ .group-3495-AfG .on-progress-Uut .transfer-normal-cmC .buttonbacktop-R6N {
   width: 20.3rem;
@@ -1381,6 +1383,7 @@ body {
   justify-content: center;
   background: linear-gradient(95.33deg, #60269e -11.97%, #d7c3ec 105%);
   border-radius: 5rem;
+  border-color: #ffffff;
 }
 .transaction-on-progress-FHQ .group-3495-AfG .on-progress-Uut .transfer-normal-cmC .rectangle-10-sj4 {
   width: 88.7rem;
@@ -1486,6 +1489,7 @@ body {
   font-family: Inter, 'Source Sans Pro';
 }
 .transaction-on-progress-FHQ .group-3495-AfG .on-progress-Uut .transfer-normal-cmC .transfree-is-checking-your-payment-09-55-fgr .transfree-is-checking-your-payment-09-55-fgr-sub-1 {
+  padding-left: 1rem;
   font-size: 1.6rem;
   font-weight: 600;
   line-height: 1.2125;
@@ -1610,6 +1614,7 @@ body {
 }
 .transaction-on-progress-FHQ .group-3495-AfG .on-progress-Uut .transfer-normal-cmC .group-3487-d3L .transaction-id-tf18237517-xtE .transaction-id-tf18237517-xtE-sub-3 {
   font-size: 1.6rem;
+  padding-left: 1rem;
   font-weight: 600;
   line-height: 1.2125;
   color: #8f68b8;
@@ -1624,7 +1629,7 @@ body {
   font-size: 1.6rem;
   font-weight: 600;
   line-height: 1.2125;
-  color: #8f68b8;
+  color: #c19aeb;
   font-family: Inter, 'Source Sans Pro';
   white-space: nowrap;
 }

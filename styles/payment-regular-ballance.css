@@ -1373,7 +1373,28 @@ body {
   justify-content: center;
   background: linear-gradient(95.33deg, #60269e -11.97%, #d7c3ec 105%);
   border-radius: 5rem;
+  border-color: #ffffff;
 }
+.payment-regular-ballance-Uy4 .group-3494-1CJ .pay-reg-ballance-VqG .transfer-normal-dRg .buttonnextpayregbal-LjQ {
+  width: 20.3rem;
+  height: 5.1rem;
+  position: absolute;
+  left: 44.8rem;
+  top: 51.1rem;
+  font-size: 1.8rem;
+  font-weight: 500;
+  line-height: 1.1725;
+  color: #ffffff;
+  font-family: Roboto, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background: linear-gradient(95.33deg, #60269e -11.97%, #d7c3ec 105%);
+  border-radius: 5rem;
+  border-color: #ffffff;
+}
+
 .payment-regular-ballance-Uy4 .group-3494-1CJ .pay-reg-ballance-VqG .transfer-normal-dRg .rectangle-10-Bzv {
   width: 88.7rem;
   height: 111.7rem;
@@ -1429,6 +1450,58 @@ body {
   font-weight: 800;
   line-height: 1.2125;
   font-style: italic;
+  color: #60269e;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.payment-regular-ballance-Uy4 .group-3494-1CJ .pay-reg-ballance-VqG .transfer-normal-dRg .payment-method-YcW-tp {
+  width: 20.2rem;
+  height: 3rem;
+  position: absolute;
+  left:17.5rem;
+  top: 3.5rem;
+  font-size: 2.5rem;
+  font-weight: 800;
+  line-height: 1.2125;
+  color: #60269e;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.payment-regular-ballance-Uy4 .group-3494-1CJ .pay-reg-ballance-VqG .transfer-normal-dRg .payment-method-YcW-nom {
+  width: 20.2rem;
+  height: 3rem;
+  position: absolute;
+  left: 45.4rem;
+  top: 3.5rem;
+  font-size: 2.5rem;
+  font-weight: 800;
+  line-height: 1.2125;
+  color: #60269e;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.payment-regular-ballance-Uy4 .group-3494-1CJ .pay-reg-ballance-VqG .transfer-normal-dRg .payment-method-YcW-paycode {
+  width: 20.2rem;
+  height: 3rem;
+  position: absolute;
+  left: 35.4rem;
+  top: 6.5rem;
+  font-size: 1rem;
+  font-weight: 200;
+  line-height: 1.2125;
+  color: #60269e;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.payment-regular-ballance-Uy4 .group-3494-1CJ .pay-reg-ballance-VqG .transfer-normal-dRg .payment-method-YcW-code {
+  width: 20.2rem;
+  height: 3rem;
+  position: absolute;
+  left: 29rem;
+  top: 8rem;
+  font-size: 2.4rem;
+  font-weight: 800;
+  line-height: 1.2125;
   color: #60269e;
   font-family: Inter, 'Source Sans Pro';
   white-space: nowrap;
@@ -1770,6 +1843,7 @@ body {
   position: absolute;
   left: 0.6rem;
   top: 4.9rem;
+  opacity: 10%;
   object-fit: cover;
   vertical-align: top;
 }
@@ -1839,7 +1913,7 @@ body {
   flex-shrink: 0;
 }
 .payment-regular-ballance-Uy4 .group-3494-1CJ .pay-reg-ballance-VqG .transfer-normal-dRg .payment-system-8JS .auto-group-kkhk-ndt .auto-group-zuqy-K82 .rp-12345678-F1g {
-  margin: 0rem 16.516rem 0.628rem 0rem;
+  margin: 0rem 16.516rem 0.628rem 8.5rem;
   text-align: center;
   font-size: 2.4rem;
   font-weight: 800;
