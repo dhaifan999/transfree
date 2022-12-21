@@ -1315,12 +1315,11 @@ body {
   vertical-align: top;
 }
 .top-up-page-Pot .group-3490-NA2 .transfer-normal-eaz .rectangle-4204-fkz {
-  width: 43rem;
-  height: 25.9rem;
+  width: 40rem;
+  height: 40.9rem;
   position: absolute;
-  left: 16.4rem;
-  top: 15.4rem;
-  object-fit: contain;
+  left: 17.4rem;
+  top: 7.399999999999999rem;object-fit: contain;
   vertical-align: top;
   border-radius: 2.5rem;
 }
@@ -1355,6 +1354,7 @@ body {
   justify-content: center;
   background: linear-gradient(95.33deg, #b977ff -11.97%, #60269e 105%);
   border-radius: 5rem;
+  border-color: #ffffff;
 }
 .top-up-page-Pot .group-3490-NA2 .transfer-normal-eaz .buttonbacktopup-kAA {
   width: 20.3rem;
@@ -1373,6 +1373,7 @@ body {
   justify-content: center;
   background: linear-gradient(95.33deg, #60269e -11.97%, #d7c3ec 105%);
   border-radius: 5rem;
+  border-color: #ffffff;
 }
 .top-up-page-Pot .group-3490-NA2 .transfer-normal-eaz .button-oPL {
   width: 25.4rem;
