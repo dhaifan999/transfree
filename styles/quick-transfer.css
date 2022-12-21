@@ -1349,20 +1349,20 @@ body {
   border-radius: 11.35rem;
 }
 .quick-transfer-mxS .group-3499-LPG .pay-reg-trJ .transactions-DNn .rectangle-4204-5ZQ {
-  width: 43rem;
-  height: 27.8rem;
+  width: 42.7rem;
+  height: 28.700000000000003rem;
   position: absolute;
   left: 17.3rem;
-  top: 1rem;
+  top: 6rem;
   background-color: #d7c2ec;
   border-radius: 2.5rem;
 }
 .quick-transfer-mxS .group-3499-LPG .pay-reg-trJ .transactions-DNn .rectangle-4205-yug {
   width: 43rem;
-  height: 20.4rem;
+  height: 15.4rem;
   position: absolute;
   left: 17rem;
-  top: 29.9rem;
+  top: 34.9rem;
   background-color: #d7c2ec;
   border-radius: 2.5rem;
 }
@@ -1405,7 +1405,7 @@ body {
   position: absolute;
   text-align: center;
   left: 26.1rem;
-  top: 16.5rem;
+  top: 15.9rem;
   font-size: 1.8rem;
   font-weight: 700;
   line-height: 1.171875;
@@ -1477,7 +1477,27 @@ body {
   height: 4.2rem;
   position: absolute;
   left: 26.1rem;
-  top: 23.7rem;
+  top: 22.7rem;
+  font-size: 1.8rem;
+  font-weight: 700;
+  line-height: 1.171875;
+  color: #f0f9f1;
+  font-family: Roboto, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  box-shadow: 0 1rem 2rem rgba(15, 159, 38, 0.150000006);
+  background-color: #60269e;
+  border-radius: 5rem;
+}
+.quick-transfer-mxS .group-3499-LPG .pay-reg-trJ .transactions-DNn .button-NsG-nom {
+  text-align: center;
+  width: 25.4rem;
+  height: 4.2rem;
+  position: absolute;
+  left: 26.1rem;
+  top: 29.7rem;
   font-size: 1.8rem;
   font-weight: 700;
   line-height: 1.171875;
@@ -1496,7 +1516,46 @@ body {
   height: 1.9rem;
   position: absolute;
   left: 26.7rem;
-  top: 21.3rem;
+  top: 21rem;
+  font-size: 1.5rem;
+  font-weight: 300;
+  line-height: 1.171875;
+  color: #a584c8;
+  font-family: Roboto, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.quick-transfer-mxS .group-3499-LPG .pay-reg-trJ .transactions-DNn .notes--Ss9 {
+  width: 8.8rem;
+  height: 1.9rem;
+  position: absolute;
+  left: 26.7rem;
+  top: 35.9rem;
+  font-size: 1.5rem;
+  font-weight: 300;
+  line-height: 1.171875;
+  color: #a584c8;
+  font-family: Roboto, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.quick-transfer-mxS .group-3499-LPG .pay-reg-trJ .transactions-DNn .notes--Ss10 {
+  width: 8.8rem;
+  height: 1.9rem;
+  position: absolute;
+  left: 26.7rem;
+  top: 42.9rem;
+  font-size: 1.5rem;
+  font-weight: 300;
+  line-height: 1.171875;
+  color: #a584c8;
+  font-family: Roboto, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.quick-transfer-mxS .group-3499-LPG .pay-reg-trJ .transactions-DNn .notes--Ss11 {
+  width: 8.8rem;
+  height: 1.9rem;
+  position: absolute;
+  left: 26.7rem;
+  top: 27.9rem;
   font-size: 1.5rem;
   font-weight: 300;
   line-height: 1.171875;
@@ -1587,7 +1646,7 @@ body {
   position: absolute;
   text-align: center;
   left: 25.8rem;
-  top: 36.7rem;
+  top: 37.7rem;
   font-size: 1.8rem;
   font-weight: 700;
   line-height: 1.171875;
